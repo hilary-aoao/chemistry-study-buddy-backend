@@ -50,3 +50,9 @@ Deployed on Render, with `GROQ_API_KEY` set as an environment variable in the Re
 ## Known limitation
 
 Render's free tier spins the service down after a period of inactivity. The first request after idle time will be noticeably slower while it restarts.
+
+## License
+
+© 2026 Hilary Orefo. All rights reserved.
+
+This project is shared publicly as a portfolio piece demonstrating full-stack development, retrieval system design, and applied prompt engineering. The code, dataset, and content are not licensed for reuse, redistribution, or commercial use without explicit permission from the author.
